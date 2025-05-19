@@ -5,10 +5,6 @@
 
 - 🔭 I’m currently studying at **Daffodil International University**
 
-- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning**
-
-- 💬 Ask me about **Web Development, Competitive Programming**
-
 - 📫 How to reach me **mhttarunna47@gmail.com**
 
 - ⚡ Fun fact **I speak fluent C++, sarcasm, and 0-based indexing.**
