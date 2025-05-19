@@ -1,5 +1,8 @@
+[![MasterHead](https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)](https://mhttarunno.io)
+
 <h1 align="center">I'm Mahfujul Haque Tarunno</h1>
 <h3 align="center">Exploring the World of Technology and Innovation.</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/15857bd385b12298e036391e6b9644e481eb0903f46311126cb5f571df2b3686/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhttaruno&label=Profile%20views&color=0e75b6&style=flat" alt="mhttaruno" /> </p>
 
