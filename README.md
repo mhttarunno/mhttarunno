@@ -83,9 +83,9 @@
   <img src="https://github.com/mhttarunno/mhttarunno/blob/output/github-snake-dark.svg" alt="snake gif"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mhttarunno&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhttarunno&layout=pie&theme=chartreuse-dark" alt="Top Languages" />
