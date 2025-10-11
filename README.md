@@ -87,8 +87,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mhttarunno&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats"/>
 </div> -->
 
-<div align="center">
+<!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhttarunno&layout=pie&theme=chartreuse-dark" alt="Top Languages" />
-</div>
+</div> -->
 
 
