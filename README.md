@@ -2,7 +2,7 @@
 
 <h1 align="center">I'm Mahfujul Haque Tarunno</h1>
 <h3 align="center">Exploring the World of Technology and Innovation.</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/computer-hacking-blinking-line-vo8sn7mrzroe6tiq.gif" />
+<img align="right" alt="Coding" width="400" src="[https://gifdb.com/images/high/computer-hacking-blinking-line-vo8sn7mrzroe6tiq.gif](https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyNGVnaXJheWcxZ25sOTYyd3o3YW82MXo4M3Y5ajVid3g1azFpeHdzNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif)" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhttaruno&label=Profile%20views&color=0e75b6&style=flat" alt="mhttaruno" /> </p>
 
