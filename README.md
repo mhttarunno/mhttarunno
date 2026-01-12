@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1p6aMhNqNX7N5jUtAZ3xhVNcAWcR8pHYE/view?usp=drive_link)](https://mhttarunno.io)
+[![MasterHead](https://drive.google.com/file/d/1p6aMhNqNX7N5jUtAZ3xhVNcAWcR8pHYE/view?usp=drive_link)
 
 <h1 align="center">I'm Mahfujul Haque Tarunno</h1>
 <h3 align="center">Exploring the World of Technology and Innovation.</h3>
